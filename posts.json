@@ -1,0 +1,59 @@
+[
+    {
+        "title": "My Update Post",
+        "content": "My First update post!\r\n\r\nThis is exciting",
+        "user_id": 1
+    },
+    {
+        "title": "A secont Post",
+        "content": "This is a post from a different user...",
+        "user_id": 2
+    },
+    {
+        "title": "Top 5 Programming Languages",
+        "content": "Te melius aperirian postulant cum, labitur admodum cu eso! T",
+        "user_id": 1
+    },
+    {
+        "title": "Subline text Tips and Trick",
+        "content": "Ea vix dico modus voluptatibus...",
+        "user_id": 1
+    },
+    {
+
+        "title": "Top 4 Programming Languages",
+        "content": "Te melius aperirian postulant cum, labitur admodum cu eso! T",
+        "user_id": 1
+    },
+    {
+        "title": "Top 2 Programming Languages",
+        "content": "Te melius aperirian postulant cum, labitur admodum cu eso! T",
+        "user_id": 2
+    },
+    {
+        "title": "Top 1 Programming Languages",
+        "content": "Te melius aperirian postulant cum, labitur admodum cu eso! T",
+        "user_id": 2
+    },
+    {
+        "title": "Flask vs Django - which is better",
+        "content": "Ei dicta aperient detercuet",
+        "user_id": 1
+    },
+    {
+        "title": "Top 1 Programming Languages",
+        "content": "Te melius aperirian postulant cum, labitur admodum cu eso! T",
+        "user_id": 1
+    },
+    {
+        "title": "Subline text Tips and Trick",
+        "content": "Ea vix dico modus voluptatibus...",
+        "user_id": 1
+    },
+    {
+        "title": "Subline text Tips and Trick",
+        "content": "Ea vix dico modus voluptatibus...",
+        "user_id": 1
+    }     
+
+]
